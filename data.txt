@@ -1,0 +1,1 @@
+file is an abstraction of data which is stored in secondary memory 
